@@ -1,0 +1,30 @@
+{
+  "name": "n0p3-es2015-cjs",
+  "version": "1.0.0",
+  "description": "The Best Noop Function",
+  "keywords": [
+    "noop",
+    "void",
+    "nothing",
+    "cjs",
+    "es2015",
+    "no-op",
+    "op",
+    "no_op"
+  ],
+  "homepage": "https://github.com/enterprise-npm-ai/n0p3-es2015-cjs#readme",
+  "bugs": {
+    "url": "https://github.com/enterprise-npm-ai/n0p3-es2015-cjs/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/enterprise-npm-ai/n0p3-es2015-cjs.git"
+  },
+  "license": "MIT",
+  "author": "10x'ly Made",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  }
+}
