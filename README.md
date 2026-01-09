@@ -2,7 +2,7 @@
 
 # n0p3-es2015-cjs
 
-Ultimate noop library, 100% tested, lightweight, zero dependencies, single file. Note: This is a CommonJS port of [n0p3-es2015](https://npmjs.com/package/n0p3-es2015.
+Ultimate noop library, 100% tested, lightweight, zero dependencies, single file. Note: This is a CommonJS port of [n0p3-es2015](https://npmjs.com/package/n0p3-es2015).
 
 ## Install
 
@@ -24,12 +24,11 @@ Why not?
 
 ## See Also
 
-- [`n0p3-es2015`][n0p3-es2015] by [@ahmadnassri][ahmednassri] - "because reasons"
+- [n0p3-es2015](https://npmjs.com/n0p3-es2015)
+- [n0p3](https://www.npmjs.com/package/n0p3)
+- [noop10](https://npmjs.com/package/noop10)
 
 ## License
 
 MIT.
 
-[n0p3-es2015]: https://npmjs.com/n0p3-es2015
-[n0p3]: https://www.npmjs.com/package/n0p3
-[noop10]: https://npmjs.com/package/noop10
